@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   }
   s.source   = { :git => 'https://github.com/sameer-bsb/RuntimeLocalization', :tag => s.version.to_s }
   s.ios.deployment_target = '6.0'
-  s.ios.source_files = '*.{h,m}’
+  s.ios.source_files = '*.{h,m}'
 end
