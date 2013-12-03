@@ -100,3 +100,5 @@ static NSBundle *bundle = nil;
 {
 	bundle = [NSBundle mainBundle];
 }
+
+@end
